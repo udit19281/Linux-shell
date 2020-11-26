@@ -1,5 +1,5 @@
 # Linux-shell
-following 10 commands have been implemented.
+following 10 commands have been implemented with 3 options each.
 1) echo =display a line of text
 - echo -n string //do not output tratling newline
 - echo -E string //disable interpretation of backslash escapes.
